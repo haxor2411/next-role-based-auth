@@ -33,6 +33,7 @@ This project is a Next.js starter template designed for implementing role-based 
     ```
 - **GitHub Login**: By default, GitHub login is configured as admin login.
 - **Google User or Created User by Admin**: Members can sign up using a Google account or via manual registration by the admin.
+- If you want to see the adminn functionality change the email to yours github email in app/api/auth/[...nextauth]/options.js
 
 ## References
 
